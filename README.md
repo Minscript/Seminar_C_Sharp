@@ -29,3 +29,16 @@
 
 * [**007_Day_of_the_number**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_2/007_Day_of_the_number/Program.cs) - Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 </details>
+
+<details>
+<summary>Урок 3. Массивы и функции в программировании</summary>
+
+---
+
+* [**008_008_Palindromic_number**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/008_Palindromic_number/Program.cs) - Задача 19: Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+* [**009_Distance_in_3D**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/009_Distance_in_3D/Program.cs) - Задача 21: Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+
+* [**010_Table_of_cubes**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/010_Table_of_cubes/Program.cs) - Задача 23: Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+</details>
+
