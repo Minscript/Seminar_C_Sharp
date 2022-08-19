@@ -9,12 +9,15 @@ Console.Write("Введите второе число: ");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 
 //Проверка данных с выводом ответа
-if (firstNumber>secondNumber)
+if (firstNumber > secondNumber)
 {
     Console.Write($"Число {firstNumber} больше числа {secondNumber} ({firstNumber}>{secondNumber})");
-} else if (secondNumber>firstNumber)
+}
+else if (secondNumber > firstNumber)
 {
     Console.Write($"Число {secondNumber} больше числа {firstNumber} ({secondNumber}>{firstNumber})");
-} else {
+}
+else
+{
     Console.Write($"Числа равны ({secondNumber}={firstNumber})");
 }

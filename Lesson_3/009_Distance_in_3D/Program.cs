@@ -16,9 +16,10 @@ int CordAssign(string coordName, string pointName)
 }
 
 // Находим расстояние между двумя точками
-double FindDistance(double x1, double x2, double y1, double y2, double z1, double z2){
-    return Math.Sqrt(Math.Pow((x2-x1), 2) + Math.Pow((y2-y1), 2) + Math.Pow((z2-z1), 2));
+double FindDistance(double x1, double x2, double y1, double y2, double z1, double z2)
+{
+    return Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2) + Math.Pow((z2 - z1), 2));
 }
 
-double distance =  Math.Round (FindDistance(x1, x2, y1, y2, z1, z2), 2 );
+double distance = Math.Round(FindDistance(x1, x2, y1, y2, z1, z2), 2);
 Console.WriteLine($"Расстояние между точками A и B: {distance}");
