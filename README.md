@@ -35,7 +35,7 @@
 
 ---
 
-* [**008_008_Palindromic_number**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/008_Palindromic_number/Program.cs) - Задача 19: Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+* [**008_Palindromic_number**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/008_Palindromic_number/Program.cs) - Задача 19: Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
 * [**009_Distance_in_3D**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/009_Distance_in_3D/Program.cs) - Задача 21: Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 
