@@ -6,13 +6,14 @@ Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
 //Проверка данных с выводом ответа
-if (N<2)
+if (N < 2)
 {
     Console.Write("Чётных чисел нет или введено число < 0");
-} else 
+}
+else
 {
     Console.Write($"Чётные числа до {N}: ");
-    for (int num=2; num<=N; num=num+2)
+    for (int num = 2; num <= N; num = num + 2)
     {
         Console.Write($"{num}, ");
     }

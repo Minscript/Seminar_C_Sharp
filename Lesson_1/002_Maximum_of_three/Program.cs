@@ -14,12 +14,13 @@ int lastNumber = Convert.ToInt32(Console.ReadLine());
 int max = firstNumber;
 
 //Проверка данных с выводом ответа
-if (max==secondNumber && max==lastNumber)
+if (max == secondNumber && max == lastNumber)
 {
     Console.Write("Введёные числа равны!");
-} else 
+}
+else
 {
-    if (max<secondNumber) {max=secondNumber;}
-    if (max<lastNumber) {max=lastNumber;}
+    if (max < secondNumber) { max = secondNumber; }
+    if (max < lastNumber) { max = lastNumber; }
     Console.Write($"{max} является максимальным числом из чисел: {firstNumber}, {secondNumber}, {lastNumber}");
 }

@@ -6,9 +6,11 @@ Console.Write("Введите любое число от 1 до 7: ");
 int week = Convert.ToInt32(Console.ReadLine());
 
 //Проверяем, является ли число днём недели и определяем по нему - выходной ли это день?
-void whatWeek(int num){
+void whatWeek(int num)
+{
     Console.Write(week);
-    switch (week){
+    switch (week)
+    {
         case 1:
             Console.Write(" - Рабочий день");
             break;

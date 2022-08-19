@@ -7,18 +7,19 @@ int number = Convert.ToInt32(Console.ReadLine());
 char result;
 
 //Генерируем число при желании пользователя от 1 до 99999
-if (number==0)
+if (number == 0)
 {
     Random random = new Random();
-    number = random.Next(1,100000);
+    number = random.Next(1, 100000);
     Console.WriteLine($"Рандомное число: {number}");
 }
 
 //Проверяем, есть ли у числа третья цифра
-if (number<100)
+if (number < 100)
 {
     Console.Write($"У числа {number} третьей цифры нет!");
-} else 
+}
+else
 {
     //Выполняем метод
     result = FindThreeNumber(number);
@@ -26,7 +27,8 @@ if (number<100)
 }
 
 //Создаём метод
-char FindThreeNumber(int num){
+char FindThreeNumber(int num)
+{
     char three = num.ToString()[2];
     return Convert.ToChar(three);
 }
