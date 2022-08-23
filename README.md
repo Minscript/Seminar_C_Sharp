@@ -42,3 +42,14 @@
 * [**010_Table_of_cubes**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_3/010_Table_of_cubes/Program.cs) - Задача 23: Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 </details>
 
+<details>
+<summary>Урок 4. Функции продолжение</summary>
+
+---
+
+* [**011_Natural_degree**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_4/011_Natural_degree/Program.cs) - Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+
+* [**012_Sum_of_digits**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_4/012_Sum_of_digits/Program.cs) - Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+* [**013_Output_an_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_4/013_Output_an_array/Program.cs) - Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
+</details>
