@@ -53,3 +53,15 @@
 
 * [**013_Output_an_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_4/013_Output_an_array/Program.cs) - Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 </details>
+
+<details>
+<summary>Урок 5. Функции продолжение</summary>
+
+---
+
+* [**014_Even_numbers_of_the_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_5/014_Even_numbers_of_the_array/Program.cs) - Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
+
+* [**015_Sum_of_the_odd_in_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_5/015_Sum_of_the_odd_in_array/Program.cs) - Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
+
+* [**016_Difference_min_max_in_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_5/016_Difference_min_max_in_array/Program.cs) - Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
+</details>
