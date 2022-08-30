@@ -65,3 +65,13 @@
 
 * [**016_Difference_min_max_in_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_5/016_Difference_min_max_in_array/Program.cs) - Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 </details>
+
+<details>
+<summary>Урок 6. Двумерные массивы и рекурсия</summary>
+
+---
+
+* [**017_Numbers_greater_than_zero**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_6/017_Numbers_greater_than_zero/Program.cs) - Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+
+* [**018_Point_of_intersection**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_6/018_Point_of_intersection/Program.cs) - Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
+</details>
