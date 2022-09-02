@@ -75,3 +75,15 @@
 
 * [**018_Point_of_intersection**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_6/018_Point_of_intersection/Program.cs) - Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 </details>
+
+<details>
+<summary>Урок 7. Как не нужно писать код. Часть 1</summary>
+
+---
+
+* [**019_Array_with_random_real_numbers**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_7/019_Array_with_random_real_numbers/Program.cs) - Задача 47: Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+
+* [**020_Find_the_number_by_index**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_7/020_Find_the_number_by_index/Program.cs) - Задача 50: Напишите программу, которая на вход принимает число и ищет в двумерном массиве, и возвращает индексы этого элемента или же указание, что такого элемента нет.
+
+* [**021_The_arithmetic_mean_in_the_column**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_7/021_The_arithmetic_mean_in_the_column/Program.cs) - Задача 52: Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+</details>
