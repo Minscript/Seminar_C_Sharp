@@ -87,3 +87,19 @@
 
 * [**021_The_arithmetic_mean_in_the_column**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_7/021_The_arithmetic_mean_in_the_column/Program.cs) - Задача 52: Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 </details>
+
+<details>
+<summary>Урок 8. Как не нужно писать код. Часть 2</summary>
+
+---
+
+* [**022_Sort_in_descending_order**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/022_Sort_in_descending_order/Program.cs) - Задача 54: Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.
+
+* [**023_Find_the_smallest_string**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/023_Find_the_smallest_string/Program.cs) - Задача 56: Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
+
+* [**024_Products_of_two_matrices**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/024_Products_of_two_matrices/Program.cs) - Задача 58: Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
+
+* [**025_Three-dimensional_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/025_Three-dimensional_array/Program.cs) - Задача 60. Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
+
+* [**026_Spiral_Array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/026_Spiral_Array/Program.cs) - Задача 62. Напишите программу, которая заполнит спирально массив 4 на 4.
+</details>
