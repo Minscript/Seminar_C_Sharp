@@ -99,7 +99,19 @@
 
 * [**024_Products_of_two_matrices**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/024_Products_of_two_matrices/Program.cs) - Задача 58: Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
 
-* [**025_Three-dimensional_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/025_Three-dimensional_array/Program.cs) - Задача 60. Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
+* [**025_Three-dimensional_array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/025_Three-dimensional_array/Program.cs) - Задача 60: Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
 
-* [**026_Spiral_Array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/026_Spiral_Array/Program.cs) - Задача 62. Напишите программу, которая заполнит спирально массив 4 на 4.
+* [**026_Spiral_Array**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_8/026_Spiral_Array/Program.cs) - Задача 62: Напишите программу, которая заполнит спирально массив 4 на 4.
+</details>
+
+<details>
+<summary>Урок 9. Как не нужно писать код. Часть 3</summary>
+
+---
+
+* [**027_Show_a_natural_number**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_9/027_Show_a_natural_number/Program.cs) - Задача 64: Задайте значения M и N. Напишите программу, которая выведет все натуральные числа в промежутке от M до N.
+
+* [**028_Show_the_natural_sum_of_the_elements**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_9/028_Show_the_natural_sum_of_the_elements/Program.cs) - Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
+
+* [**029_Ackerman_functions**](https://github.com/Minscript/Seminar_GB/blob/master/Lesson_9/029_Ackerman_functions/Program.cs) - Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
 </details>
